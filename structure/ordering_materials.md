@@ -1,1 +1,0 @@
-## Ordering Materials {#ordering-materials}

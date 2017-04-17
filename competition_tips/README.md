@@ -1,1 +1,0 @@
-# Competition Tips {#competition-tips}

@@ -1,1 +1,0 @@
-# Design Procedures {#design-procedures}
