@@ -1,0 +1,7 @@
+## Plastics {#plastics}
+
+Plastics can be used for many mountings and plate stock. It is easy for students to work with, light and strong. There are 3 main plastics we use:
+
+1.  **PolyCarbonate** - Easy to work with. Somewhat flexible. Will not shatter. Good for structural and parts that need a slight amount of forgiveness. Can take adhesive. Can be cold bent. Students are very comfortable working with this. Relatively cheap. Polycarbonate: also known as Lexan, it is a polymeric thermoplastic (which softens when heated, instead of burning), transparent to light waves and radio-control signals. It has high impact toughness, and it is very light, with density 1.2\. It is used in combat robot armor, it absorbs a lot of energy as it is deformed during an impact. To avoid cracking, chamfer all holes to remove sharp corners and edges, and provide the Lexan support with some damping, for instance using a thin layer of rubber or neoprene.
+2.  **Delrin** - Black, structurally sound. Can be used in structural application. Good as a bearing surface. Can be cut by wood working tools. Will not take to adhesives. Relatively expensive. About the same weight as polycarb but easier to machine. It also will not splinter or crack.
+3.  **HDPE** - Called Artificial ice. Used for bearing surfaces and larger cover material. All white easy to cut with woodworking machines. Flexible, not a lot of structural properties.

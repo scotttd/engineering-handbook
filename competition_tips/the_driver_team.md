@@ -1,0 +1,3 @@
+## The Driver Team {#the-driver-team}
+
+Four team members represent the entire team on the playfield - no more are allowed. This team is responsible for anything that happens during the game, and should be comfortable in dealing with surprises. The driver team is responsible for carrying the robot onto the playfield (no small task), enabling power, and of course operating the driver station during gameplay.

@@ -1,0 +1,3 @@
+## Project Management {#project-management}
+
+This year we will use a Scrum-like project management methodology. At the beginning of each work day a 15 minute meeting resulting in a prioritized list should be created on a Google Doc by each Sub Assembly Team. This list should detail all tasks to completed that day and who they are assigned to. Following that meeting lead engineers from each team will then meet to discuss what will be accomplished each day in a scrum of scrum. Coordinating the purchase of supplies will be the responsibility of the lead engineer. Orders should be given to the club treasure along with part number, cost estimate and source.
